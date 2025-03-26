@@ -1,0 +1,5 @@
+__pycache__
+cal_app
+.env
+calories.csv
+trainer.py
